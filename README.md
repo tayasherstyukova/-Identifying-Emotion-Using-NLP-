@@ -2,10 +2,10 @@
 This is a final group project created for the class CSCI 4502/5502 "Data Mining" at University of Colorado, Boulder.
 
 Collaborators:
-Isabel Beaulieu
-Isabel Eskay
-Michelle Ramsahoye
-Erin Richardson
+Isabel Beaulieu,
+Isabel Eskay,
+Michelle Ramsahoye,
+Erin Richardson,
 Taisiia Sherstiukova
 
 Topic: 
