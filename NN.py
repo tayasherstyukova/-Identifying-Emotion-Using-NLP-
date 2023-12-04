@@ -1,7 +1,7 @@
 """
 Created on Thu Nov 29 
 
-@author: tayasherstiukova
+@author:  isabelbeaulieu and tayasherstiukova
 """
 
 import os
